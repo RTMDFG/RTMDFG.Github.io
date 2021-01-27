@@ -1,8 +1,8 @@
 ## 显著性预测-Predicting Human Eye Fixations via an LSTM-based Saliency Attentive Model
 
-  本文发表于2018年，文中提出了SAM显著性预测模型。文中讨论了显著性检测和显著性预测的区别，认为显著性检测是生成一个二值mask将图像中的标记出来，显著性预测是预测图中人眼关注的区域。文中也对显著性检测的应用领域进行了列举，例如基于感兴趣区域的图像压缩等。You can use the [editor on GitHub](https://github.com/RTMDFG/RTMDFG.Github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+  本文发表于2018年，文中提出了SAM显著性预测模型。文中讨论了显著性检测和显著性预测的区别，认为显著性检测是生成一个二值mask将图像中的标记出来，显著性预测是预测图中人眼关注的区域。文中也对显著性检测的应用领域进行了列举，例如基于感兴趣区域的图像压缩等。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### Markdown
 
